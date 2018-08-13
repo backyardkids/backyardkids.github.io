@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BYK Coming Soon",
-    "currentPage": " .html",
+    "currentPage": " index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -530,7 +530,7 @@
         }
       ]
     },
-    " .html": {
+    " index.html": {
       "settings": {
         "title": "BYK Coming Soon",
         "meta_descr": "We're on the way! Stay tuned.",
